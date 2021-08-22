@@ -1,0 +1,6 @@
+primero creamos un block de notas 
+abrimos github
+creamos un programa para dividir datos 
+detallamos paso a paso la division 
+escribimos los numeros a dividir 
+imprimimos la respuesta de la division 
